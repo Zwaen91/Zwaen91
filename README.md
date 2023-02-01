@@ -4,7 +4,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?color=1ca0f1&label=Zwaen91&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FZwaen91)
 ![LinkedIn URL](https://img.shields.io/twitter/url?color=0A66C2&label=Contact%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frico-herwig-3068b7169%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_feed%253B7TnjG26iS2WJDaltvsMfPg%253D%253D)
 -->
-- 🔭 I’m currently working on ELMER pro - B2B online shop based on Spryker
+- 🔭 I’m currently working at Kellerkinder GmbH - 100% Shopware, 100% Nerd, 100% Remote
 - 🌱 I’m currently learning Shopware 6
 - ⚡ Fun fact: I don't have a scar on my forehead but several elsewhere
 
