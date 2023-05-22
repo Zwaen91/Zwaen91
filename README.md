@@ -7,6 +7,7 @@
 - 🔭 I’m currently working at Kellerkinder GmbH - 100% Shopware, 100% Nerd, 100% Remote
 - 🌱 I’m currently learning Shopware 6
 - 🐘 PHP addicted since 2012
+- 👦 Wannabe Fullstack
 - ⚡ Fun fact: I don't have a scar on my forehead but several elsewhere
 
 <!--## My Stats
